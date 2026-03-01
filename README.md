@@ -24,9 +24,11 @@ This presentation analyzes health data across 37 Nigerian states using an intera
 - Highest incidence of Meningitis occurred in 2015.
 - Lowest incidence of Meningitis occurred in 2010.
 - Adults are the most susceptible group to diarrhoea. Teenagers are the second most affected group.
-### RECOMMENDATIONS 
+### Recommendations 
 - Strengthen cholera response in Abia State
 - Increase disease prevention in urban settlements
 - Prioritize Kebbi, Niger, and Kaduna for intervention
 - Monitor meningitis outbreak trends annually
 - Implement adult-focused hygiene education programs
+### Files
+https://drive.google.com/drive/folders/1Oz9ZdcoyDY9a4g1_DbvboqFs7JvGFWMa
